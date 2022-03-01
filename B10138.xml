@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By His Majesties license, and special approbation of the true orvietan, or antidote</title>
+            <author>Tilburg, Cornelius.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10138</idno>
+            <idno type="STC">Wing T1161C</idno>
+            <idno type="STC">ESTC R185132</idno>
+            <idno type="EEBO-CITATION">69648967</idno>
+            <idno type="OCLC">ocm 69648967</idno>
+            <idno type="VID">185109</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10138)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185109)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2886:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By His Majesties license, and special approbation of the true orvietan, or antidote</title>
+                  <author>Tilburg, Cornelius.</author>
+               </titleStmt>
+               <extent>1 sheet  ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>before 1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Cornelius Tilburg.  Cf. Wing (2nd ed.).</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Early works to 1800.</term>
+               <term>Advertising --  Medicine --  Early works to 1800.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185109:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <q xml:lang="frm">DIEV ET MON DROICT</q>
+                  <figDesc>royal English blazon, surmounted by a crown and flanked by the English lion and Scottish unicorn</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>blazon with the Hapsburg double-headed eagle, surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>
+               <figure>
+                  <figDesc>the Sun in Splendor, an English heraldic device</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>the Hapsburg double-headed eagle</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>the Sun in Splendor, an English heraldic device</figDesc>
+               </figure>
+            </head>
+            <head>By His Majeſties Licenſe, and Special Approbation. OF THE True Orvietan, or Antidote.</head>
+            <p>EXperimented before His Majeſty in <hi>White-Hall,</hi> by <hi>Cor<g ref="char:EOLhyphen"/>nelius a Tilbury,</hi> and alſo upon the publick Stage, by taking ſixty grains of Poyſon, and curing himſelf by the ſaid Antidote; whereupon his Majeſty, in teſti<g ref="char:EOLhyphen"/>mony of his approbation thereof, was pleaſed to cauſe the ſaid <hi>Cornelius a Tilbury</hi> to be ſworn His Majeſties Chyrurgeon in ordinary.</p>
+            <div type="part">
+               <head>The VERTUES of the <hi>TR<g ref="char:V">Ʋ</g>E ORVIETAN.</hi>
+               </head>
+               <p>THis <hi>ORVIETAN</hi> is very good to expel all ſorts of <hi>Poy<g ref="char:EOLhyphen"/>ſon,</hi> by taking the quantity of a Nutmeg in ſome warm milk or broth, and it will immediately expel the poyſon out of the body, either by <hi>Vomiting, Sweating, Stool, or <g ref="char:V">Ʋ</g>rine;</hi> the ſaid <hi>ORVIETAN</hi> being taken three or four times one after ano<g ref="char:EOLhyphen"/>ther, until the poyſon be expelled; then a ſmall cup of fat broth muſt be taken with an ounce of Conſerve of Roſes, and you will be quite rid of the <hi>poyſon.</hi>
+               </p>
+               <p n="2">2. If any perſon be bitten by a <hi>Viper, Mad Dog,</hi> or other <hi>Venomous creature,</hi> he muſt immediately take the quantity of a Nutmeg in Wine, then lay open the place of the bite, my ma<g ref="char:EOLhyphen"/>king of an inciſion, and extract the <hi>Venomous blood,</hi> then apply the <hi>ORVIETAN</hi> as a plaiſter upon the ſame place, and keep the party from ſleeping twelve hours, and by Gods bleſſing he will be cured.</p>
+               <p n="3">3. This Medicine cureth, and is a great preſervative againſt the <hi>Plague;</hi> you muſt take the quantity of a Nutmeg in Wine every morning; and if you be infected with the <hi>plague,</hi> twice the quantity; then let the Patient be covered up warm till he ſweats, and the <hi>peſtilence</hi> will be driven out, and the party cu<g ref="char:EOLhyphen"/>red inſenſibly.</p>
+               <p n="4">4. This <hi>ORVIETAN</hi> is alſo good againſt all Diſtempers proceeding from a weak ſtomach, by taking the quantity of Nutmeg in the morning, faſting two hours after it, and in the Evening two hours after Supper. It fortifies the <hi>Natural heat,</hi> cauſes <hi>digeſtion,</hi> and cures the <hi>pain in the ſtomach, ſtinking breath, dry coughs, palpitation of the heart, ſhort breath,</hi> and all diſtempers occaſioned by the <hi>ſtomach.</hi> It keeps the Vapours from aſcending to the brain, which often<g ref="char:EOLhyphen"/>times occaſion very grievous pains in the head, and prevents <hi>defluxions upon the lungs.</hi>
+               </p>
+               <pb facs="tcp:185109:2"/>
+               <p n="5">5. This <hi>ORVIETAN</hi> is very good for ſeveral diſtempers, that happen to men at Sea, as <hi>pain in the ſtomach, faintneſs</hi> and <hi>vomiting;</hi> it prevents <hi>burſten bellies,</hi> and ſuch like accidents. It muſt be uſed in the manner as in the <hi>fourth Article.</hi> It is good againſt all <hi>Peſtilential Fevers</hi> and <hi>Agues,</hi> either at Sea, or on Land, by taking the quantity of a Nutmeg in Oyl, melt<g ref="char:EOLhyphen"/>ed butter, or any other Cordial Water, or in warm beer. As ſoon as the Fit comes, the Patient muſt be cover'd till he ſwears, and the doſe muſt be repeated as often as the ſit comes, until he be cured.</p>
+               <p n="6">6. If any children get <hi>Fevers</hi> by the <hi>Small pox,</hi> or <hi>Meaſles,</hi> give them the quantity of half a Nutmeg in ſome Cordial<g ref="char:EOLhyphen"/>water, or Wine, and cover them warm till they ſweat, to drive out the <hi>Small pox</hi> or <hi>Meaſles.</hi> It is alſo very good for ſuch as are troubled with <hi>Worms,</hi> and <hi>Hard bellies,</hi> and are there<g ref="char:EOLhyphen"/>fore hindred from Growing, by giving them a ſmall quantity of it in beer till they are cured.</p>
+               <p n="7">7. This <hi>ORVIETAN</hi> being taken to the quantity of a Nutmeg in warm Wine or broth, cures the great <hi>pain of the belly,</hi> occaſioned by the <hi>Cholick,</hi> cold <hi>Wind,</hi> and alſo the <hi>pain in the ſide.</hi>
+               </p>
+               <p n="8">8. It is alſo good for Women in Labour, by taking the quantity of a Nutmeg in ſome Cinnamon-water; it haſtens the <hi>birth,</hi> ſtrengthens both Mother and Child. It is alſo good a<g ref="char:EOLhyphen"/>gainſt Vapours, and the <hi>Fits of the Mother.</hi>
+               </p>
+               <p n="9">9. It is very good for the <hi>Murrain,</hi> and other diſtempers, as pains in the belly of <hi>Horſes, Oxen,</hi> or <hi>Sheep;</hi> and a very Soveraign Remedy, by giving them the quantity of an ounce in a pint of warm Wine, and cover them well; and for ſmaller beaſts, half the quantity; this is good too, if they were bit by <hi>mad Dogs,</hi> or other <hi>Venomous creatures;</hi> and it cureth ma<g ref="char:EOLhyphen"/>ny other diſtempers, too tedious to be inſerted.</p>
+               <p>And this <hi>Orvietan</hi> will keep good ten years and more, if it be kept in a place that is not too hot, nor too cold; and if it ſhould dry a little, it may be made good again, by mixing with it ſome Syrrup of Roſes.</p>
+            </div>
+            <div type="part">
+               <head>They alſo cure theſe ſeveral Infirmities and Defects following.</head>
+               <p n="1">1. IF any perſon be troubled with <hi>Films</hi> or <hi>Catarrhs</hi> in thier eyes, if the Apple of the eye be not hurt, they can re<g ref="char:EOLhyphen"/>ſtore them to their ſight preſently; they alſo cure by <hi>Me<g ref="char:EOLhyphen"/>dicines</hi> in a ſhort ſpace, any Pearls or blood in the Eyes, or overgrown fleſh.</p>
+               <p n="2">2. They will cure and recover ſuch as are troubled with the Stone in the Kidneys or bladder, by cutting, or by particular Medicines; they can alſo take Stones out of the Kidneys or blad<g ref="char:EOLhyphen"/>der of Women and Maids, <hi>per dilatationem,</hi> without cutting.</p>
+               <p n="3">3. They cure all manner of <hi>burſten people,</hi> both Men and and Women, young and old, by rare medicines, and artificial <hi>Truſſes,</hi> in a ſhort time, without any let; but as to ſuch as have been of long continuance, they can cure them by a fine <hi>Manual Operation,</hi> ſo as they ſhall in ten days time be perfectly cured.</p>
+               <p n="4">4. They cut and cure <hi>Hair lips</hi> in ſix days, the <hi>Cancer</hi> in the breaſts, and other parts of the body: the <hi>Noli me tangere,</hi> and ſuch like Diſeaſes, in a ſhort time; they can artificially cut the <hi>Polepum</hi> in the Noſe; they cure Weakneſs in the Limbs, and dexterouſly cut all <hi>Carnoſities</hi> or Swellings.</p>
+               <p n="5">5. And they having travelled through the chiefeſt and moſt fa<g ref="char:EOLhyphen"/>mous Countries of <hi>Europe,</hi> have learned and experienced the ſafeſt and moſt approved ways of curing all Venereal and ſoul Diſeaſes practiſed in each Countrey, and have brought over with them excellent and peculiar Remedies, not vnlgarly known, for that dangerous diſtemper, the ſymptoms of which follow.</p>
+               <p>If any have got the <hi>POK,</hi> or any of its ſymptomes, as virulent <hi>Gonorrhea,</hi> with <hi>Running of the Reins,</hi> and pain in making Water, Ulcers in the throat, mouth, noſe, or <hi>
+                     <g ref="char:V">Ʋ</g>rethra, Carnoſity,</hi> Inflamations, Swellings, Soreneſs, <hi>Phymoſis, Para<g ref="char:EOLhyphen"/>phymoſis, Chriſtaline, Hemorrboids, Swellings</hi> and <hi>Buboes</hi> in the Groin, Pains in the Head. Arms, Shoulders, and Legs, with Nodes, Knots, or <hi>Exoſtoſis</hi> on the Head and Shin-bones, with Puſtles, Tetters, Ringworms, or breaking out of the whole body, <hi>&amp;c.</hi> which if not cured, becomes Conſumptive, Hecti<g ref="char:EOLhyphen"/>cal, and ends in the Grave (few perſons have all theſe Pocky ſymptoms, its enough to have one or two of them).</p>
+               <p>This Diſeaſe hath ſeveral and various accidents, and fellows, that attend it, but in ſubſtance there is but two kinds; One that ſetleth it ſelf in the blood, and other humours of our bodies. The other that is in the very marrow of the bones. To know the diſtinction, it is not for every Practitioner, but for him that hath cured thouſands and thouſands, as he can ſhew the Teſtimonials of ſeveral great perſons in ſeveral parts of the World.</p>
+               <p>How many hath he cured, that having had a <hi>Running</hi> too ſoon ſtopped, were turned to the POX, and could find no Re<g ref="char:EOLhyphen"/>medy? How many that had not taken two hours of reſt in their beds from ten and more years, by reaſon of the violent pains in the head, arms, ſhoulders, ſhin-bones, hath he cured? and (were it not for privacy and civilities ſake) could mention the names of hundreds in this Bill.</p>
+               <p>This is ſufficient for ſuch as love their health; and ſuch as have been tampering with other Phyſicians, I ſhall certainly reduce to their former health, although they have been ſweat<g ref="char:EOLhyphen"/>ed and lanched by other Doctors: I ſhall give you remedy by pleaſant medicines, that you your ſelf ſhall wonder at it; ſome perchance may ſay theſe are but words, but I ſhall confirm them by actions.</p>
+               <p>We could mention alſo many other effects and operations that we have done, but for brevity ſake, and not to trouble the Reader too much, we have omitted them, being you may have our advice at all times for nothing, and be informed of many Cures more, not mentioned here; as can be atteſted by Eminent perſons that we have cured, which were left by others. Neglect not your own health, ſince God hath been pleaſed to ſend a means, now being the beſt time of the year. And if any one cannot come, let him but ſend his true Water or Urine, and we ſhall give our judgment to the beſt of the skill where<g ref="char:EOLhyphen"/>with God hath endued us.</p>
+               <p n="6">6. They can fortifie the cold Nature of men and women; and have a rare Art to cure ſuch as cannot <hi>Hold their water;</hi> they can alſo cure women that are troubled with <hi>Falling-fits,</hi> and <hi>Vapours.</hi>
+               </p>
+               <p n="7">7. They have a rare Art of curing <hi>Deafneſs,</hi> if curable.</p>
+               <p n="8">8. They can reſtore to perfect health ſuch as are troubled with <hi>Vomiting, Cholick, Riſing of the Vapours, Pain in the Milt, Stitches in the Side,</hi> and all <hi>Scorbutick Diſtempers,</hi> which they cure in a very ſhort time.</p>
+               <p n="9">9. If any perſons be troubled with the <hi>Toothach,</hi> they can cure them; and take out any Teeth or Warts without pain. They can alſo put in Artificial Teeth in the Upper or Under Jaw.</p>
+            </div>
+         </div>
+         <div type="notice">
+            <p>They Lodge in <hi>Ruſſel Street</hi> in <hi>Covent-Garden,</hi> within Two Doors of the <hi>Piazza's,</hi> near their Stage, at the ſign of the Clock; where you ſee the <hi>Kings-Arms</hi> over the <hi>Balcony.</hi> They are privately to be ſpoken with from Eight of the Clock in the Morning till Ten at night. I could wiſh you to take care, that you come to my own Lodging in <hi>Ruſſel Street,</hi> for fear you miſtake.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
